@@ -1,3 +1,5 @@
+//Developed by Tharun Ganeshram and Ahorna Chowdhury
+
 #include <Servo.h>
 
 Servo gripper; 
