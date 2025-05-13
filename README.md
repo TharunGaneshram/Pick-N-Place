@@ -1,5 +1,8 @@
 # 5-Bar Pick and Place Mechanism
 
+This project was developed as part of our SYDE 261 Engineering Prototyping course. 
+Developed by **Tharun Ganeshram** and **Ahorna Chowdhury**.
+
 Welcome to the 5-Bar Pick and Place Mechanism project! This implementation utilizes hobby servos controlled by a Botboarduino controller board to create a pick and place mechanism. Below are the key features and instructions for using the project:
 
 ## Features
